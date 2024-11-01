@@ -1,3 +1,4 @@
+#This file should be placed in the pico w with name "main.py" to auto start.
 import network
 import time
 import dht
